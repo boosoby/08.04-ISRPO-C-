@@ -1,8 +1,9 @@
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Ulan Geniy!\n";
+    cout << "Ulan Geniy!\n";
+    
 }
 
