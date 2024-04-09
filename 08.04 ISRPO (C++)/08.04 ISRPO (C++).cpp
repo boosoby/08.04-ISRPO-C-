@@ -4,6 +4,6 @@ using namespace std;
 int main()
 {
     cout << "Ulan Geniy!\n";
-    
+    cout << "Bogdan tozhe!";
 }
 
